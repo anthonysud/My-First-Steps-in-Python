@@ -1,2 +1,2 @@
-# My-First-Steps-in-Python
-My repository
+# my-first-steps-in-python
+my repository
